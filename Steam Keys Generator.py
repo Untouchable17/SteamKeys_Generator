@@ -5,7 +5,7 @@ root = Tk()
 root.resizable(width=False, height=False)
 root.geometry('350x200')
 root['bg'] = '#202020'
-root.iconbitmap('C:/Users/W-10/Desktop/icons/picasa.ico')
+root.iconbitmap('путь к иконке')
 root.title('Steam Keys')
 
 
@@ -52,7 +52,7 @@ result = Label(font='Roboto 10',
                fg='#FF9C09',
                pady=20,
                text='')
-text2 = Label(text='KℝIℙ₮Oℕ ₮EAM',
+text2 = Label(text='KℝYℙ₮Oℕ ₮EAM',
               font='Roboto 10',
               bg='#202020',
               fg='#11699A')
